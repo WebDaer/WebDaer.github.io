@@ -1,0 +1,1 @@
+.CustomCursor{background-color:#ffffff8a;color:#ffffff5e;height:20px;width:20px;border-radius:50%;position:fixed;top:0;left:0;margin-left:-10px;margin-top:4px}.CustomCursorActive{background-color:#ffffff1a;border:solid 2px white;color:#ffffff5e;height:42px;width:42px;animation:anim .5s}@keyframes anim{0%{width:22px;height:22px}to{width:42px;height:42px}}
